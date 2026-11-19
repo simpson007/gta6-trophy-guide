@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI (PS5)</title>
+<meta name="description" content="An offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: official names, descriptions and grades, a roadmap to the platinum, and cited guides in our own words.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Unofficial fan guide</p>
+    <h1>Leonida Trophy Guide</h1>
+    <p class="lede">All 55 trophies — official name, description and grade for each, a guide in our own words that cites its sources, a roadmap to the platinum, and a tracker that remembers your progress. Works fully offline; nothing leaves your browser.</p>
+    <div class="progress-wrap" aria-label="Progress">
+      <div class="progress-numbers"><span id="progressText">0 of 55 earned</span><span id="progressPct">0%</span></div>
+      <div class="progress-bar"><div id="progressFill"></div></div>
+      <p class="progress-grades" id="gradeCounts"></p>
+    </div>
+  </div>
+</header>
+<main>
+  <section class="card" id="startCard" aria-labelledby="startHeading">
+    <h2 id="startHeading">Before you start</h2>
+    <ul id="beforeList" class="tight"></ul>
+    <p class="estimate" id="estimate"></p>
+  </section>
+
+  <section class="card" id="roadmapCard" aria-labelledby="roadmapHeading">
+    <h2 id="roadmapHeading">Roadmap to the platinum — Vice Got a Price!</h2>
+    <p class="muted">Six stages, in the order to play them. Every trophy is assigned to a stage; open a stage to see its trophies, and click a trophy chip to jump to its guide.</p>
+    <ol id="roadmapList" class="roadmap"></ol>
+  </section>
+
+  <section class="card" id="trackerCard" aria-labelledby="trackerHeading">
+    <h2 id="trackerHeading">Tracker — all 55 trophies</h2>
+    <div class="controls">
+      <label class="search">Search <input id="search" type="search" placeholder="Name, mission or keyword…" autocomplete="off"></label>
+      <div class="kind-filters" id="kindFilters" role="group" aria-label="Filter by kind"></div>
+      <label>Grade
+        <select id="gradeFilter">
+          <option value="all">All grades</option>
+          <option value="platinum">Platinum</option>
+          <option value="gold">Gold</option>
+          <option value="silver">Silver</option>
+          <option value="bronze">Bronze</option>
+        </select>
+      </label>
+      <label class="check"><input id="spoilerToggle" type="checkbox" checked> Hide story spoilers</label>
+      <label class="check"><input id="earnedOnly" type="checkbox"> Earned only</label>
+    </div>
+    <div class="controls controls2">
+      <button id="exportBtn" type="button">Export progress</button>
+      <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json,.json"></label>
+      <button id="resetBtn" type="button">Reset progress</button>
+      <span id="filterNote" class="muted" role="status"></span>
+    </div>
+    <div id="trophyList"></div>
+    <p id="emptyNote" class="muted" hidden></p>
+  </section>
+
+  <section class="card" id="sourcesCard" aria-labelledby="sourcesHeading">
+    <h2 id="sourcesHeading">Sources &amp; honesty note</h2>
+    <p>Official trophy names, descriptions and grades are shown exactly as PlayStation publishes them, as listed on Exophase and cross-checked with PSNProfiles and TrueAchievements. Every guide on this page is written in our own words for this guide, and names its source beside it — a fact with no source gets no credit here, so five trophies are marked honestly as <em>not yet known</em> rather than given a made-up method.</p>
+    <ul id="sourceList" class="tight"></ul>
+    <p class="muted">Checked 19 November 2026. This is an unofficial fan guide, not affiliated with Rockstar Games, and it shows no Rockstar logo, artwork or game screenshots.</p>
+  </section>
+</main>
+<footer>
+  <p>Leonida Trophy Guide — data in <code>data/trophies.json</code>, roadmap in <code>data/roadmap.json</code>. Progress is stored only in your browser (localStorage); export it to keep a backup.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
