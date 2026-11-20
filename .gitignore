@@ -1,2 +1,5 @@
-# Build output from `node main.ts` (MAKEFUN_OUTPUT_DIR=out)
 out/
+out2/
+node_modules/
+.DS_Store
+*.log
