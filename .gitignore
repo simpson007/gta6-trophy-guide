@@ -1,1 +1,2 @@
+# Build output from `node main.ts` (MAKEFUN_OUTPUT_DIR=out)
 out/

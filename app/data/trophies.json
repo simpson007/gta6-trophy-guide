@@ -1,11 +1,11 @@
 {
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
- "list": "The official 55 PS5 trophies as published on PlayStation, taken from Exophase and cross-checked with PSNProfiles and TrueAchievements (Planet GTA 6, 18 Nov 2026). Names, descriptions and grades are shown exactly as PlayStation publishes them; every guide below is written in our own words for this guide.",
- "checked": "2026-11-19",
+ "list": "All 55 official PS5 trophies, names, descriptions and grades exactly as PlayStation publishes them. The list was taken from Exophase and checked against PSNProfiles and TrueAchievements (Planet GTA 6, 18 Nov 2026). Each guide underneath is written in my own words for this guide and names its source.",
+ "checked": "2026-11-20",
  "sourceList": {
   "powerpyx": {"label": "PowerPyx — GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
-  "planetgta6": {"label": "Planet GTA 6 — GTA 6 Trophies (official names, descriptions and grades, from Exophase, cross-checked with PSNProfiles and TrueAchievements)", "url": "https://www.planetgta6.com/en/gta-6-trophies/"},
+  "planetgta6": {"label": "Planet GTA 6 — GTA 6 Trophies (official names, descriptions and grades, from Exophase, checked against PSNProfiles and TrueAchievements)", "url": "https://www.planetgta6.com/en/gta-6-trophies/"},
   "cryptogames": {"label": "CryptoGames — GTA 6 Trophies and Achievements: Full List and Hard Ones", "url": "https://cryptogames.gg/gta-6-trophies-achievements-full-list/"},
   "gtazone": {"label": "GTA Zone — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
   "outputlag": {"label": "OutputLag — GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://outputlag.com/guides/gta-6-trophy-list/"},
@@ -23,7 +23,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 6,
-   "guide": "The platinum. It pops the moment the other 54 trophies are all earned — there is nothing extra to do for it, so work through this guide's roadmap in order and it will be the last trophy you earn. All 55 trophies are single-player and offline, so no online play is ever needed.",
+   "guide": "No separate task sits behind the platinum: it unlocks on its own the moment the other 54 trophies are all earned, so it will be the last one you hear pop if you work the roadmap in order. Everything in this list is single-player and offline, and no online play is ever needed.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -37,7 +37,7 @@
    "count": null,
    "chapter": "Chapter 1 — Gone Fishing",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. Finish the opening mission, Gone Fishing, in Chapter 1 and it unlocks when the mission ends. You cannot miss it: it is tied to finishing the mission, not to how you play it.",
+   "guide": "Story-locked and automatic. Play through the opening mission, Gone Fishing, in Chapter 1 and the trophy unlocks as the mission wraps up. It only cares that you finished the mission, not how you played it, so there is no way to miss it.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -51,7 +51,7 @@
    "count": null,
    "chapter": "Chapter 1",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks when Chapter 1 ends — PowerPyx notes it pops after completing the first main mission of Chapter 2, 'What's in the Bag?'. Just keep playing the story; there is no optional objective attached to it.",
+   "guide": "Story-locked and automatic. It unlocks as Chapter 1 ends — PowerPyx notes it actually pops after the first main mission of Chapter 2, 'What's in the Bag?'. Keep playing the story; no optional objective is tied to it.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -65,7 +65,7 @@
    "count": null,
    "chapter": "Chapter 2",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks when Chapter 2 ends, after the first main mission of Chapter 3, 'Welcome to Vice City'. Nothing to do but play the story through.",
+   "guide": "Story-locked and automatic. It unlocks as Chapter 2 ends, after the first main mission of Chapter 3, 'Welcome to Vice City'. Playing the story through is all it asks.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -79,7 +79,7 @@
    "count": null,
    "chapter": "Chapter 3",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks when Chapter 3 ends — after the first two main missions of Chapter 4, 'Ocean Beach' and 'Another Life'. Story progress only.",
+   "guide": "Story-locked and automatic. It unlocks as Chapter 3 ends — after the first two main missions of Chapter 4, 'Ocean Beach' and 'Another Life'. Pure story progress.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -93,7 +93,7 @@
    "count": null,
    "chapter": "Chapter 4",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks when Chapter 4 ends, after the final main mission of Chapter 4, 'Starting From Zero'. Keep playing the story and it comes to you.",
+   "guide": "Story-locked and automatic. It unlocks as Chapter 4 ends, after that chapter's final main mission, 'Starting From Zero'. Just keep playing the story and it arrives on its own.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -107,7 +107,7 @@
    "count": null,
    "chapter": "Final mission",
    "roadmap": 1,
-   "guide": "The gold story trophy. Finish the final mission of the story and it unlocks with the ending. Because there is no mission replay in GTA VI, keep a manual save at the start of the final stretch, as PowerPyx advises — the game has 15 manual save slots plus one autosave, so sparing one is cheap insurance.",
+   "guide": "The gold for finishing the story. Beat the final mission and it unlocks with the ending. GTA VI has no mission replay, so hold a manual save from the start of the final stretch — PowerPyx gives the same advice, and with 15 manual save slots plus one autosave, sparing one is cheap insurance.",
    "sources": ["powerpyx", "planetgta6", "outputlag"]
   },
   {
@@ -121,7 +121,7 @@
    "count": null,
    "chapter": "Chapter 2 — Breakfast Run",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 2, when you complete the main mission 'Breakfast Run'. Just play the mission; it cannot be missed.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 2 when the main mission 'Breakfast Run' is done. Play the mission and it cannot be missed.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -135,7 +135,7 @@
    "count": null,
    "chapter": "Chapter 3 — The Cartel Heist",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 3, when you complete the main mission 'The Cartel Heist'. Story progress only — no side objective.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 3 when the main mission 'The Cartel Heist' is done. Story progress only — no side objective attached.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -149,7 +149,7 @@
    "count": null,
    "chapter": "Chapter 4 — Child's Play",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 4, when you complete the main mission 'Child's Play'. Just play the mission through.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 4 when the main mission 'Child's Play' is done. Just play the mission through.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -163,7 +163,7 @@
    "count": null,
    "chapter": "Chapter 4 — Headliners",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 4, when you complete the main mission 'Headliners'. Story progress only.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 4 when the main mission 'Headliners' is done. Story progress only.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -177,7 +177,7 @@
    "count": null,
    "chapter": "Chapter 4 — VCIA Takedown",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 4, when you complete the main mission 'VCIA Takedown'. Just play the mission through.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 4 when the main mission 'VCIA Takedown' is done. Just play the mission through.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -191,7 +191,7 @@
    "count": null,
    "chapter": "Chapter 5 — Operation Savage Glory",
    "roadmap": 1,
-   "guide": "Story trophy, automatic. It unlocks during Chapter 5, when you complete the main mission 'Operation Savage Glory'. Story progress only.",
+   "guide": "Story-locked and automatic. It unlocks in Chapter 5 when the main mission 'Operation Savage Glory' is done. Story progress only.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -205,7 +205,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 6,
-   "guide": "The gold for 100% completion — PowerPyx calls it the hardest trophy, and the one the platinum really turns on. The checklist unlocks after the story under Progress > Stats > 100% Completion, but progress you make during the story already counts. It is lenient: PowerPyx puts it at roughly 60% of true completion, needing only part of most totals (200 of 277 vehicles, 100 of 255 animals, 70 of 80 challenges, 100 optional missions) — but all robberies, all shooting ranges, all drone races, all 15 Target Decks and all 39 gang operations are required in full. Nothing on the checklist is missable, and it can all be finished in free-roam after the story.",
+   "guide": "The gold for 100% completion. PowerPyx calls it the hardest trophy, and it is the one the platinum really turns on. The checklist appears after the story at Progress > Stats > 100% Completion, but anything you did during the story already counts toward it. It is forgiving: PowerPyx puts it at roughly 60% of true completion, asking for only part of most totals — 200 of 277 vehicles, 100 of 255 animals, 70 of 80 challenges, 100 optional missions — while a few things are wanted in full: all robberies, all shooting ranges, all drone races, all 15 Target Decks and all 39 gang operations. Nothing on the checklist can be missed, and all of it can be finished in free-roam after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -220,7 +220,7 @@
    "countLabel": "250 of 397 stunts",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Complete any 250 of the 397 stunts in Leonida. PowerPyx breaks them down as 130 stunt jumps, 202 under-the-bridges, 40 knife flights and 25 base jumps, and notes you can mix categories — under-the-bridges runs are the quickest. The 100% checklist wants 300, so keep going past 250. Track them under Progress > Activities > Stunts, and on the map under Exploration > Stunt Spots.",
+   "guide": "Any 250 of Leonida's 397 stunts will do. PowerPyx splits them into 130 stunt jumps, 202 under-the-bridges, 40 knife flights and 25 base jumps, and points out you can mix categories — slipping under bridges is the fastest way to rack them up. The 100% checklist asks for 300, so keep going past 250. Your count lives under Progress > Activities > Stunts, and the map marks them under Exploration > Stunt Spots.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -235,7 +235,7 @@
    "countLabel": "9 activity types",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, playing a video game, winning a car race / race challenge / Top Fun drone race, and performing a stunt. The game counts them under Touchpad > Progress > Activities. You will meet most of them through the story and the other trophies, so this usually pops on its own while you work through the list.",
+   "guide": "Sample each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, playing a video game, winning a car race, race challenge or Top Fun drone race, and pulling off a stunt. The game tracks them at Touchpad > Progress > Activities. Most of them cross your path through the story and the other trophies, so this one usually unlocks by itself while you work the list.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -250,7 +250,7 @@
    "countLabel": "42 gold medals",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Earn a gold medal in all 42 Shooting Range challenges, across 12 shooting range locations. PowerPyx links a full location guide; the ranges are also needed in full for the 100% checklist. Gold medals here are not hard, per PowerPyx — take your time, use a steady weapon, and redo any challenge you miss; the ranges stay open after the story.",
+   "guide": "Gold in all 42 Shooting Range challenges, spread over 12 range locations. PowerPyx links a full location guide. The ranges are also a full requirement of the 100% checklist. Per PowerPyx the golds are not hard — take your time, bring a steady weapon, and retry any challenge you miss; the ranges stay open after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -265,7 +265,7 @@
    "countLabel": "14 locations",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Win a Top Fun drone race at every one of the 14 locations (42 drone races in total). Any win at a location counts — you do not need to win every race at each spot. Drone races are also a full requirement of the 100% checklist, so this folds into the cleanup stage.",
+   "guide": "Win a Top Fun drone race at each of the 14 locations — 42 drone races exist in total, but one win per location is enough; you never have to win every race at a spot. Drone races are also a full item on the 100% checklist, so this slots into the cleanup stage.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -280,7 +280,7 @@
    "countLabel": "20 different races",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Win 20 different races, out of 40 unique race locations. Each distinct race you win counts once, so work through new locations rather than repeating one you like. Races also feed the activity count for Master of None.",
+   "guide": "Win 20 different races from the 40 unique race locations. A race only counts the first time you win it, so move on to fresh locations instead of repeating a favourite. Races also count toward the activity types for Master of None.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -294,7 +294,7 @@
    "count": null,
    "chapter": "Chapter 1 — after Feng Shui",
    "roadmap": 2,
-   "guide": "Beat Cal in a fishing challenge. After the Chapter 1 mission 'Feng Shui', where you meet Cal, he will text you and mark a fishing spot with a purple icon on the map. Follow his fishing questline from there — the challenge itself is the trophy.",
+   "guide": "Out-fish Cal in one of his fishing challenges. You meet him in the Chapter 1 mission 'Feng Shui'; after that he texts you and a purple icon marks a fishing spot on the map. Follow his fishing questline from there — the challenge itself is what unlocks the trophy.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -308,7 +308,7 @@
    "count": null,
    "chapter": "Chapter 1",
    "roadmap": 2,
-   "guide": "Complete one arcade game (called 'Video Games' in-game). There are four: Tenebrae Lux, Street Trash III, Time Jackers Rewind and Bang For Your Buck. The first three are playable on the TV at home from Chapter 1; Bang For Your Buck is on arcade machines around the world. You must finish all levels of one game at least once — beating every challenge inside it is not required — so pick whichever you enjoy most.",
+   "guide": "Finish one arcade game — the game calls them 'Video Games'. Four exist: Tenebrae Lux, Street Trash III, Time Jackers Rewind and Bang For Your Buck. The first three run on the TV at home from Chapter 1, while Bang For Your Buck sits on arcade machines around the world. You have to clear all levels of one game at least once, but beating every challenge inside it is not required — pick the one you enjoy most.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -322,7 +322,7 @@
    "count": null,
    "chapter": "Chapter 3",
    "roadmap": 2,
-   "guide": "Finish Andy's optional questline; the trophy pops on its last mission. The line is marked automatically in Chapter 3 and is Lucia-only: while playing as Lucia you get a call from Andy, then a text with her home address in Belville. Five quests: 'Climbing the Cellerichain' (parts 1-3), 'Pay the Cellerica Fee', 'Peach!', 'Read the Label' and 'Puff Puff Pass'. All of it stays available after the story.",
+   "guide": "Play Andy's optional questline to the end; the trophy unlocks on its last mission. It appears on its own in Chapter 3 and is Lucia-only: as Lucia you get a call from Andy, then a text with her home address in Belville. Five quests in all: 'Climbing the Cellerichain' (parts 1-3), 'Pay the Cellerica Fee', 'Peach!', 'Read the Label' and 'Puff Puff Pass'. Everything stays open after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -336,7 +336,7 @@
    "count": null,
    "chapter": "Chapter 1",
    "roadmap": 2,
-   "guide": "Finish Kenton's optional questline; the trophy pops on its last mission. It is marked automatically in Chapter 1: after the mission 'Island Dreams' (work for Kenton), he calls you and is marked with a green 'KR' icon in Key Lento. He sends you diving for treasure at 7 shipwrecks — purple chest icons on the map — using a metal detector on the ocean floor. Track it under Progress > Characters > Kenton Rees. Kenton goes away for a while after Chapter 1 but comes back in Chapters 2-3, so nothing here is missable.",
+   "guide": "Play Kenton's optional questline to the end; the trophy unlocks on its last mission. It appears on its own in Chapter 1: after the mission 'Island Dreams', where you work for Kenton, he calls and shows up with a green 'KR' icon in Key Lento. He sends you diving for treasure at 7 shipwrecks — purple chest icons on the map — using a metal detector on the ocean floor. Your progress sits under Progress > Characters > Kenton Rees. Kenton leaves for a while after Chapter 1 but returns in Chapters 2-3, so nothing here can be missed.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -350,7 +350,7 @@
    "count": null,
    "chapter": "Chapter 2 — after Coffee Break",
    "roadmap": 2,
-   "guide": "Finish Billy's optional questline; the trophy pops on its last mission. It is marked automatically after the Chapter 2 mission 'Coffee Break', at the Thrillbilly Mudclub in Kelly County. Five quests: 'Thrillbillies', 'Twist Wrist, Smash, Grab', 'Mall Rats', 'The Impaler' and 'Hometown Heroes'. All stay available after the story.",
+   "guide": "Play Billy's optional questline to the end; the trophy unlocks on its last mission. It appears on its own after the Chapter 2 mission 'Coffee Break', at the Thrillbilly Mudclub in Kelly County. Five quests in all: 'Thrillbillies', 'Twist Wrist, Smash, Grab', 'Mall Rats', 'The Impaler' and 'Hometown Heroes'. Everything stays open after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -365,7 +365,7 @@
    "countLabel": "8 strands",
    "chapter": null,
    "roadmap": 2,
-   "guide": "Complete 8 mission strands for strangers across Leonida. Only certain questlines count — PowerPyx confirms Kirk (Skunk Ape), Kyle, Yago and Pilot Pete among them, and notes that lines like Moses, Tyrone, Yasmani, Andy, Billy and Eddie do not count toward this trophy. Check your count in the trophy tracker itself. All strangers stay available in free-roam after the story, so do them whenever.",
+   "guide": "Finish 8 mission strands for strangers across Leonida. Only certain questlines count — PowerPyx confirms Kirk (Skunk Ape), Kyle, Yago and Pilot Pete among them, and notes that lines like Moses, Tyrone, Yasmani, Andy, Billy and Eddie do not count toward this trophy. Your count is shown in the trophy tracker itself. Every stranger stays available in free-roam after the story, so do them whenever you like.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -379,7 +379,7 @@
    "count": null,
    "chapter": "Chapter 3 — after Clonin' Keys, Makin' GS",
    "roadmap": 2,
-   "guide": "Finish Randy's optional questline ('Randy's Wish List'); the trophy pops on its last mission. It is marked automatically after the Chapter 3 mission 'Clonin' Keys, Makin' GS', where you steal the Zorrusso for Randy and unlock the Key Cloner. He then wants 16 sports cars delivered to his garage in west Vice City (green 'RK' icon) — scan cars with the WAiNK app to check them against his list, steal them, and drive them back in good condition for better pay. Cars he marks appear in fixed spots; the rest you can steal off the street. All available after the story.",
+   "guide": "Play Randy's optional questline ('Randy's Wish List') to the end; the trophy unlocks on its last mission. It appears on its own after the Chapter 3 mission 'Clonin' Keys, Makin' GS', where you steal the Zorrusso for Randy and unlock the Key Cloner. He then wants 16 sports cars delivered to his garage in west Vice City (green 'RK' icon) — scan cars with the WAiNK app to check them against his list, steal them, and drive them back in good condition for better pay. Cars he marks sit in fixed spots; the rest you can steal off the street. All of it stays open after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -393,7 +393,7 @@
    "count": null,
    "chapter": "Chapter 3 — after Here, Kitty Kitty",
    "roadmap": 2,
-   "guide": "Finish Tyrone's optional questline; the trophy pops on its last mission. It is marked automatically after the Chapter 3 mission 'Here, Kitty Kitty' and is Jason-only. Purple markers point to Synthetic Labs in Vice City — go and destroy them as part of 'Take Out Kitty Litter'. Once enough labs are down, Tyrone gives the second quest, 'Spin On This', which unlocks the trophy. All available after the story.",
+   "guide": "Play Tyrone's optional questline to the end; the trophy unlocks on its last mission. It appears on its own after the Chapter 3 mission 'Here, Kitty Kitty' and is Jason-only. Purple markers point at Synthetic Labs in Vice City — go and destroy them in 'Take Out Kitty Litter'. Once enough labs are down, Tyrone hands you the second quest, 'Spin On This', which unlocks the trophy. Everything stays open after the story.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -409,7 +409,7 @@
    "countLabel": "18 meditation spots",
    "chapter": "Chapter 1 (one missable meditation)",
    "roadmap": 1,
-   "guide": "Meditate at every spot across Leonida: 18 spots in 10 locations, and meditating with both Jason and Lucia at a spot counts double. Track them under Progress > Collections > Exploration > Meditations. THE ONE POSSIBLY MISSABLE TROPHY: PowerPyx and GTABase both flag it. In Chapter 1, after the mission 'Down to Earth', Lucia may suggest meditating in the morning at Jason's house — follow her to the balcony and accept. That meditation adds +1 to the counter but is not marked as a spot, and it is gone after Chapter 1; PowerPyx says it is still unconfirmed whether it is required, and its author had done it when the trophy popped. Do it in Chapter 1 to be safe. The final meditation needs both characters together, unlocked after Chapter 2's 'Coffee Break'. For the 100% checklist only 15 of 18 are needed.",
+   "guide": "Meditate at all 18 spots in 10 locations, and meditating with both Jason and Lucia at a spot counts double. Your count sits under Progress > Collections > Exploration > Meditations. THE ONE POSSIBLY MISSABLE TROPHY — PowerPyx and GTABase both flag it. In Chapter 1, after the mission 'Down to Earth', Lucia may suggest meditating in the morning at Jason's house: follow her to the balcony and accept. That meditation adds +1 to the counter but is not marked as a spot, and it disappears after Chapter 1. PowerPyx says it is still unconfirmed whether it is required, and its author had done it when the trophy popped — do it in Chapter 1 to be safe. The final meditation needs both characters together, unlocked after Chapter 2's 'Coffee Break'. The 100% checklist only asks for 15 of 18.",
    "sources": ["powerpyx", "cryptogames", "gtazone"]
   },
   {
@@ -423,7 +423,7 @@
    "count": null,
    "chapter": "Chapter 2 — after Coffee Break",
    "roadmap": 2,
-   "guide": "Hunt a unique animal for Bret (Bret Vogel). His line is marked automatically after the Chapter 2 mission 'Coffee Break': while playing as Jason you get a text marking his first quest, 'Veteran Hunted', in Lummox County — Lucia cannot receive it, so this is Jason-only. He then marks hunting spots with purple icons; hunt the animals he requests and bring them back. His first quest gives you the unique hunting rifle 'Killtelligence SM-69', retrievable from any weapon locker at Ammu-Nation. One clean shot keeps the animal pristine and pays more, but is not required. All available after the story. PowerPyx notes it is still being confirmed exactly which animal pops the trophy — the questline itself is the way in.",
+   "guide": "Hunt a unique animal for Bret Vogel. His line appears on its own after the Chapter 2 mission 'Coffee Break': as Jason you get a text marking his first quest, 'Veteran Hunted', in Lummox County — Lucia cannot receive it, so this is Jason-only. From there he marks hunting spots with purple icons; hunt the animals he asks for and bring them back. His first quest hands you the unique hunting rifle 'Killtelligence SM-69', which you can pull from any weapon locker at Ammu-Nation. A single clean shot keeps the animal pristine and pays more, but it is not required. Everything stays open after the story. PowerPyx notes it is still being confirmed exactly which animal unlocks the trophy — the questline itself is the way in.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -438,7 +438,7 @@
    "countLabel": "3 card sets",
    "chapter": null,
    "roadmap": 3,
-   "guide": "Complete 3 collectible card sets. There are 18 card sets in the world; any 3 finished sets count. Cards are a collectible type — work through them with a map guide (PowerPyx links all 18 set locations) and the trophy pops on the third completed set.",
+   "guide": "Finish 3 collectible card sets. 18 sets exist in the world and any 3 completed ones count. Cards are a collectible type — work through them with a map guide (PowerPyx links the locations of all 18 sets) and the trophy unlocks on the third finished set.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -453,7 +453,7 @@
    "countLabel": "100 locations",
    "chapter": null,
    "roadmap": 3,
-   "guide": "Use WAiNK It at 100 locations. Hold up on the D-pad and R1 to scan objects in the world — landmarks (31), curiosities (35), sculptures (23) and No Flusher tags add up to far more than 100, so any 100 will do. Scan as you travel and this pops naturally; it also feeds the vehicle scanning needed for the 100% checklist.",
+   "guide": "WAiNK It at 100 locations. Hold up on the D-pad and R1 to scan objects in the world — landmarks (31), curiosities (35), sculptures (23) and No Flusher tags add up to far more than 100, so any 100 will do. Scan as you travel and this unlocks on its own; it also feeds the vehicle scanning the 100% checklist wants.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -468,7 +468,7 @@
    "countLabel": "50 of 80 challenges",
    "chapter": null,
    "roadmap": 4,
-   "guide": "Complete 50 of the 80 challenges. Track them under Progress > Challenges. Most complete naturally while you chase the other trophies; the 100% checklist wants any 70 of 80, so this pops on the way there. Save the awkward ones for last and pick the easiest of what remains.",
+   "guide": "Finish 50 of the 80 challenges, tracked under Progress > Challenges. Most of them complete on their own while you chase the other trophies, and the 100% checklist wants any 70 of 80, so this unlocks on the way there. Leave the awkward ones for last and pick the easiest of what remains.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -482,7 +482,7 @@
    "count": null,
    "chapter": "Chapter 2 — after Coffee Break",
    "roadmap": 5,
-   "guide": "Lose a 4-star wanted level with your partner and escape the heat. Earliest chance is after Chapter 2's 'Coffee Break', when you can roam with Jason and Lucia together (call your partner with right on the D-pad + Triangle). Build 4 stars by causing chaos, then escape the red heat zone in a fast bike — PowerPyx suggests the train tunnel north of Ambrosia in Kelly County, where the helicopter cannot follow. It also pops naturally during the Chapter 4 mission 'That's Where The Money Is…' and while robbing the 8 large bank vaults, which always trigger 4 stars.",
+   "guide": "Shake a 4-star wanted level while your partner is with you, and get out of the heat. Your earliest shot is after Chapter 2's 'Coffee Break', once you can roam with Jason and Lucia together — call your partner with right on the D-pad + Triangle. Build 4 stars by causing chaos, then get out of the red heat zone on a fast bike. PowerPyx suggests the train tunnel north of Ambrosia in Kelly County, where the helicopter cannot follow. It also unlocks on its own during the Chapter 4 mission 'That's Where The Money Is…' and while robbing the 8 large bank vaults, which always trigger 4 stars.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -497,7 +497,7 @@
    "countLabel": "3 shops in a row",
    "chapter": "Chapter 2 — after Coffee Break",
    "roadmap": 5,
-   "guide": "Rob 3 shops back-to-back with your partner without losing your wanted level. Only after 'Coffee Break' (Chapter 2), when you can play with your partner. Hit 3 robbery targets (green icons) while the police chase stays active — keep the flashing wanted level, do not let it drop or spike into the red heat level. Wear armor, carry sticky bombs and healing items, and loot properly in each shop (a couple of items plus the back-room safe). The trophy pops about half a minute after leaving the third shop — if it does not, hit a fourth. A good spot is the 3 jewelry stores in north Vice City, open after Chapter 3's 'Yasmani's Jewelry Jobs'.",
+   "guide": "Rob 3 shops in a row with your partner while the wanted level never drops. Only after 'Coffee Break' (Chapter 2), once you can play with your partner. Hit 3 robbery targets (green icons) while the police chase stays live — keep the flashing wanted level, and do not let it drop or spike into the red heat level. Wear armor, carry sticky bombs and healing items, and loot each shop properly (a couple of items plus the back-room safe). The trophy unlocks about half a minute after you leave the third shop; if it does not, hit a fourth. A good spot is the 3 jewelry stores in north Vice City, open after Chapter 3's 'Yasmani's Jewelry Jobs'.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -512,7 +512,7 @@
    "countLabel": "100 vehicles",
    "chapter": null,
    "roadmap": 3,
-   "guide": "Discover 100 vehicles. The fastest way is the WAiNK app: hold up on the D-pad, look at a vehicle and hold R1 to scan it. Just stand on a busy road and scan everything that passes — scanning is enough, you do not need to drive them. Leonida has 557 vehicles at launch, and the 100% checklist wants 200 of the 277 base models scanned, so this pops long before you finish that.",
+   "guide": "Discover 100 vehicles. Quickest is the WAiNK app: hold up on the D-pad, look at a vehicle and hold R1 to scan it. Stand on a busy road and scan everything that passes — scanning is enough, you never have to drive them. Leonida holds 557 vehicles at launch, and the 100% checklist asks for 200 of the 277 base models scanned, so this unlocks long before you finish that.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -527,7 +527,7 @@
    "countLabel": "5 in one Combat Focus",
    "chapter": null,
    "roadmap": 5,
-   "guide": "Take down 5 enemies in a single use of Combat Focus. Activate it with L3 + R3 while aiming; it slows time and highlights weak spots, draining the purple focus bar. Buff focus first (food, drinks, washing up at home), take Adrenaline to stretch the window, wear body armor, and use an accurate full-auto weapon like the Duke 556. Line up 5 enemies at a gang operation and drop them fast. It does not seem to work on soldiers, police or civilians. Focus has 4 levels, raised by shooting ranges, golf, pool, fishing and headshots; by the time you have done the other trophies you will likely be at level 4 and this comes naturally.",
+   "guide": "Drop 5 enemies in one use of Combat Focus. Switch it on with L3 + R3 while aiming: time slows, weak spots light up, and the purple focus bar drains. Top the bar up first (food, drinks, washing up at home), take Adrenaline to stretch the window, wear body armor, and bring an accurate full-auto weapon like the Duke 556. Line up 5 enemies at a gang operation and drop them fast. It does not seem to work on soldiers, police or civilians. Focus has 4 levels, raised by shooting ranges, golf, pool, fishing and headshots; by the time you have done the other trophies you will likely be at level 4 and this comes on its own.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -541,7 +541,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Make an unscheduled departure at VCIA (Vice City International Airport). Steal one of the large passenger planes docked at a departure terminal — it must be connected to a passenger boarding bridge, not one parked on the airfield. Easiest is the plane at terminals E3/E4: drive through a fence, take the stairs by the boarding bridge straight into the plane, go upstairs to the cockpit, reverse to the airstrip and take off. Fly at least 1 km (0.6 miles) away from the airport and the trophy pops.",
+   "guide": "Leave VCIA (Vice City International Airport) in a plane you were not booked on. Steal one of the large passenger planes docked at a departure terminal — it has to be connected to a passenger boarding bridge, not one parked out on the airfield. Easiest is the plane at terminals E3/E4: drive through a fence, climb the stairs by the boarding bridge straight into the plane, go upstairs to the cockpit, reverse to the airstrip and take off. Fly at least 1 km (0.6 miles) away from the airport and the trophy unlocks.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -555,7 +555,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Steal a military tank — a Rhino. They stand in the south of Mile Zero Air Station, the island at the south-west edge of the map in Mariana County. Drive through the gate (or use the stunt jump by the south-east entrance), climb in, and shoot enemies until the trophy pops.",
+   "guide": "Steal a military tank — a Rhino. They sit in the south of Mile Zero Air Station, the island at the south-west edge of the map in Mariana County. Drive through the gate (or take the stunt jump by the south-east entrance), climb in, and shoot enemies until the trophy unlocks.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -569,7 +569,7 @@
    "count": null,
    "chapter": "Chapter 3 — after Yasmani's Jewelry Jobs",
    "roadmap": 5,
-   "guide": "Rob a jewelry store without being detected. First finish Chapter 3's 'Yasmani's Jewelry Jobs' — it unlocks the Snap Gun for silently lockpicking alarmed doors, and marks jewelry store robberies (green icons) on the map. Enter through the back door with the Snap Gun instead of kicking it (which trips the alarm), find the note with the safe code in the back room, and loot the safe. PowerPyx suggests Richardson Jewelry & Diamonds in Vice City.",
+   "guide": "Rob a jewelry store without being spotted. First finish Chapter 3's 'Yasmani's Jewelry Jobs' — it unlocks the Snap Gun for silently lockpicking alarmed doors, and marks jewelry store robberies (green icons) on the map. Go in through the back door with the Snap Gun instead of kicking it (kicking trips the alarm), find the note with the safe code in the back room, and loot the safe. PowerPyx suggests Richardson Jewelry & Diamonds in Vice City.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -584,7 +584,7 @@
    "countLabel": "5 of 8 bank vaults",
    "chapter": "Chapter 4 — after That's Where The Money Is…",
    "roadmap": 5,
-   "guide": "Rob 5 bank vaults and escape. First finish the Chapter 4 optional mission 'That's Where The Money Is… (Wait at the Cafe)' — it teaches the method: tail a security van to a bank, slip in while the vault is open, and bring your partner to carry a second bag. After that, pay Yasmani $10,000 a tip for security van locations (after his earlier Payday Loans jobs). Each vault robbery triggers a 4-star wanted level, so escape on a fast motorcycle and switch cars to go unrecognized. There are 8 large bank jobs in total and the 100% checklist wants all 8, so this pops on the way.",
+   "guide": "Rob 5 bank vaults and get away. First finish the Chapter 4 optional mission 'That's Where The Money Is… (Wait at the Cafe)' — it teaches the method: tail a security van to a bank, slip in while the vault is open, and bring your partner along to carry a second bag. After that, pay Yasmani $10,000 a tip for security van locations (after his earlier Payday Loans jobs). Every vault robbery triggers a 4-star wanted level, so escape on a fast motorcycle and switch cars to go unrecognized. 8 large bank jobs exist in total and the 100% checklist wants all 8, so this unlocks on the way.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -598,7 +598,7 @@
    "count": null,
    "chapter": "Chapter 4 — after That's Where The Money Is…",
    "roadmap": 5,
-   "guide": "Rob an armored truck and escape. The same Chapter 4 mission, 'That's Where The Money Is…', counts: tailing the armored truck to the bank and robbing the vault counts as robbing the truck. Or do it earlier — block an armored truck driving near banks in Vice City, plant a sticky bomb on its back door and blow it open (sticky bombs are in the back of Yasmani's shop after his quests). Either way the trophy only pops after you escape the red heat radius.",
+   "guide": "Rob an armored truck and get away. The Chapter 4 mission 'That's Where The Money Is…' counts by itself: tailing the armored truck to the bank and robbing the vault counts as robbing the truck. Or do it earlier — block an armored truck driving near banks in Vice City, stick a bomb on its back door and blow it open (sticky bombs sit in the back of Yasmani's shop after his quests). Either way the trophy only unlocks once you escape the red heat radius.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -612,7 +612,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 3,
-   "guide": "Explore all of Leonida — fully unfog the map. The fastest way is by plane: fly over every blacked-out patch until the whole map is visible. Do it late, once you have a plane and have already travelled most of the state for other trophies, and it is a short job.",
+   "guide": "See all of Leonida — fully unfog the map. Fastest is by plane: fly over every blacked-out patch until the whole map is visible. Do it late, once you have a plane and have already travelled most of the state for other trophies, and it is a short job.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -627,7 +627,7 @@
    "countLabel": "9 gangs",
    "chapter": null,
    "roadmap": 5,
-   "guide": "Rob an illegal operation belonging to each of the 9 gangs. There are 39 gang operations in total, marked with yellow icons when you go near them; you only need one per gang for this trophy, but the 100% checklist wants all 39. Track progress under Progress > Gangs — each gang's page shows how many of its operations you have robbed.",
+   "guide": "Rob an illegal operation from each of the 9 gangs. 39 gang operations exist in total, marked with yellow icons when you go near them; one per gang is enough for this trophy, but the 100% checklist wants all 39. Your progress sits under Progress > Gangs — each gang's page shows how many of its operations you have robbed.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -641,7 +641,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Enjoy a cocktail with a view on Ocean Beach. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown (checked 19 Nov 2026). The description is the only solid fact: a cocktail, with a view, on Ocean Beach. Likely a specific bar or spot on the beachfront; check this guide's sources for updates before you go hunting, and do not trust any method that cites no source.",
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown (checked 20 Nov 2026). The description is the only solid fact: a cocktail, with a view, on Ocean Beach. Most likely a specific bar or spot on the beachfront; check this guide's sources for updates before you go hunting, and do not trust any method that cites no source.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -655,7 +655,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Smash your way out of a vehicle showroom in classic style. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown (checked 19 Nov 2026). The description points at a showroom smash-out, in the style of the classic GTA openings; the exact showroom and trigger are still unconfirmed. Check the linked guides for updates rather than following an uncited method.",
+   "guide": "Smash your way out of a vehicle showroom in classic style. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown (checked 20 Nov 2026). The description points at a showroom smash-out, in the style of the classic GTA openings; the exact showroom and trigger are still unconfirmed. Check the linked guides for updates rather than following an uncited method.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -669,7 +669,7 @@
    "count": null,
    "chapter": "Chapter 2 — Hit Kingpin Bowling",
    "roadmap": 5,
-   "guide": "Follow-through at the Kolt & Associates' bowling alley. Steal all 3 key valuables at Kingpin Bowling in Port Gellhorn, one of the gang operations: the luxury watch in the south-east office, the unique shotgun 'Gutterball Moreland 850' on the table in the north-east corner, and the safe in the north-east hallway office (blow it with sticky bombs — buy them at Ammu-Nation first). You first go there in the Chapter 2 optional mission 'Hit Kingpin Bowling'. The trophy pops after you escape the police, not when you grab the third item — and you do not need all 3 in one visit: the robbery icon respawns, so you can come back for what you missed.",
+   "guide": "Follow-through at the Kolt & Associates' bowling alley. Steal all 3 key valuables at Kingpin Bowling in Port Gellhorn, one of the gang operations: the luxury watch in the south-east office, the unique shotgun 'Gutterball Moreland 850' on the table in the north-east corner, and the safe in the north-east hallway office (blow it with sticky bombs — buy them at Ammu-Nation first). You first go there in the Chapter 2 optional mission 'Hit Kingpin Bowling'. The trophy unlocks after you escape the police, not when you grab the third item — and you do not need all 3 in one visit: the robbery icon respawns, so you can come back for what you missed.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -683,7 +683,7 @@
    "count": null,
    "chapter": "Chapter 2 — after Coffee Break",
    "roadmap": 5,
-   "guide": "A partnership with mass appeal: get maximum strength with both Jason and Lucia at the same time. Only after Chapter 2's 'Coffee Break', when you can switch between them. Check strength under Touchpad > Jason & Lucia > Strength (heart icon). Work out at fitness clubs — buy a membership, always go together (call your partner with right on the D-pad + Triangle), and while one trains the other completes their training automatically, so you progress twice as fast. You can also work out at home after the story. Filter for fitness clubs on the map under Activities.",
+   "guide": "A partnership with mass appeal: reach maximum strength with both Jason and Lucia at the same time. Only after Chapter 2's 'Coffee Break', once you can switch between them. Strength sits under Touchpad > Jason & Lucia > Strength (heart icon). Work out at fitness clubs — buy a membership, always go together (call your partner with right on the D-pad + Triangle), and while one trains the other completes their training automatically, so you progress twice as fast. You can also work out at home after the story. Filter for fitness clubs on the map under Activities.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -698,7 +698,7 @@
    "countLabel": "500 profile actions",
    "chapter": null,
    "roadmap": 5,
-   "guide": "Perform 500 actions that affect your Criminal Profile. Turn on Criminal Profile notifications (Settings > UI > HUD Notifications > Criminal Profile = On) and a little demon face appears whenever an action counts. The profile runs from Professional (stealthy jobs, clean escapes) through Hardened and Violent to Psycho and Irredeemable — the last is permanent, so avoid endless rampages. Most of the 500 will happen passively while you rob and fight through the other trophies; if you are short at the end, the count is tracked by clicking the trophy in the trophy list. (GTABase via CryptoGames; PowerPyx lists the same 500 figure.)",
+   "guide": "Perform 500 actions that affect your Criminal Profile. Switch Criminal Profile notifications on (Settings > UI > HUD Notifications > Criminal Profile = On) and a little demon face appears whenever an action counts. The profile runs from Professional (stealthy jobs, clean escapes) through Hardened and Violent to Psycho and Irredeemable — the last is permanent, so avoid endless rampages. Most of the 500 will happen on their own while you rob and fight through the other trophies; if you are short at the end, the count is tracked by clicking the trophy in the trophy list. (GTABase via CryptoGames; PowerPyx lists the same 500 figure.)",
    "sources": ["powerpyx", "cryptogames", "planetgta6"]
   },
   {
@@ -712,7 +712,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Second time's the charm. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead that it relates to the Payday Loans store from the prologue (checked 19 Nov 2026). The description suggests succeeding on a second attempt at something. Until a guide confirms it with evidence, treat the Payday Loans lead as a rumor, not a method — check the linked guides for updates.",
+   "guide": "Second time's the charm. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead that it relates to the Payday Loans store from the prologue (checked 20 Nov 2026). The description suggests succeeding on a second attempt at something. Until a guide confirms it with evidence, treat the Payday Loans lead as a rumor, not a method — check the linked guides for updates.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -726,7 +726,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "What the hell just happened? HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead pointing at a UFO questline (checked 19 Nov 2026). The description suggests witnessing something strange. Do not chase an uncited UFO method; check the linked guides for updates as players confirm the trigger.",
+   "guide": "What the hell just happened? HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead pointing at a UFO questline (checked 20 Nov 2026). The description suggests witnessing something strange. Do not chase an uncited UFO method; check the linked guides for updates as players confirm the trigger.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -740,7 +740,7 @@
    "count": null,
    "chapter": null,
    "roadmap": 5,
-   "guide": "Bowl 'em over with a melee drive-by. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead that it involves kicking enemies while driving a motorcycle (checked 19 Nov 2026). If the lead is right, the method is a melee attack from a moving bike; until a guide confirms it, treat that as a rumor. Check the linked guides for updates.",
+   "guide": "Bowl 'em over with a melee drive-by. HONEST STATUS: no guide has pinned this one down yet — PowerPyx lists it as currently unknown, with an unconfirmed lead that it involves kicking enemies while driving a motorcycle (checked 20 Nov 2026). If the lead is right, the method is a melee attack from a moving bike; until a guide confirms it, treat that as a rumor. Check the linked guides for updates.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -755,7 +755,7 @@
    "countLabel": "$250,000 laundered",
    "chapter": "Chapter 3 — after Credit Check",
    "roadmap": 5,
-   "guide": "Earn $250,000 laundering marked bills through your contacts. First finish Chapter 3's 'Credit Check (Meet Raul's Crew)' to unlock the Dye Pack Jammer. Then rob banks and Payday Loans, and bring the marked bills to a fence — Yasmani in Vice City pays the most. The $250,000 counts across all robberies, not in one trip, and bank vaults pay up to $205,000 in a single robbery. It comes naturally while you do the robberies for the 100% checklist.",
+   "guide": "Earn $250,000 laundering marked bills through your contacts. First finish Chapter 3's 'Credit Check (Meet Raul's Crew)' to unlock the Dye Pack Jammer. Then rob banks and Payday Loans, and bring the marked bills to a fence — Yasmani in Vice City pays the most. The $250,000 counts across all robberies, not in one trip, and bank vaults pay up to $205,000 in a single robbery. It comes on its own while you do the robberies for the 100% checklist.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {
@@ -770,7 +770,7 @@
    "countLabel": "$100,000 spent",
    "chapter": null,
    "roadmap": 5,
-   "guide": "Spend $100,000 across all shops. Guns, car mods and tattoos are the priciest, so they are the fastest route; clothing, footwear, hair and electronics all count too. The total is cumulative across the whole game, so this pops naturally if you buy gear as you play — if you are short at the end, spend the difference on car mods or weapons.",
+   "guide": "Spend $100,000 across all shops. Guns, car mods and tattoos are the priciest, so they are the fastest route; clothing, footwear, hair and electronics all count too. The total is cumulative across the whole game, so this unlocks on its own if you buy gear as you play — if you are short at the end, spend the difference on car mods or weapons.",
    "sources": ["powerpyx", "planetgta6"]
   },
   {

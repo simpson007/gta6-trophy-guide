@@ -4,7 +4,9 @@
 [![rank](https://make.fun/badge/gta6-trophy-guide-01/simpson007/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 [![reward](https://make.fun/badge/gta6-trophy-guide-01/simpson007/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
-An offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: official name, description and grade for each, a guide in our own words that cites its sources, a roadmap to the platinum, and a localStorage checklist with export/import, kind filters and a spoiler setting. No online trophies, one possibly missable trophy, and five trophies honestly marked as not yet known rather than given a made-up method.
+An offline guide and tracker for all 55 Grand Theft Auto VI trophies on PlayStation 5: the official name, description and grade for each, a guide in our own words that names its sources, a roadmap to the platinum, and a localStorage checklist with export/import, kind filters and a spoiler setting. No online trophies, one possibly missable trophy, and five trophies honestly marked as not yet known instead of given a made-up method.
+
+Built for the [make.fun bounty gta6-trophy-guide-01](https://make.fun/bounty/gta6-trophy-guide-01).
 
 ## Run it
 
